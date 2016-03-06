@@ -1,0 +1,12 @@
+C:\SRC\GridviewResponsive\GridviewResponsive\bin\GridviewResponsive.dll.config
+C:\SRC\GridviewResponsive\GridviewResponsive\bin\GridviewResponsive.dll
+C:\SRC\GridviewResponsive\GridviewResponsive\bin\GridviewResponsive.pdb
+C:\SRC\GridviewResponsive\GridviewResponsive\obj\Release\GridviewResponsive.dll
+C:\SRC\GridviewResponsive\GridviewResponsive\obj\Release\GridviewResponsive.pdb
+C:\SRC\GridviewResponsive\GridviewResponsive\obj\Release\GridviewResponsive.csprojResolveAssemblyReference.cache
+C:\SRC\GridviewResponsiveEdit\GridviewResponsive\bin\GridviewResponsive.dll.config
+C:\SRC\GridviewResponsiveEdit\GridviewResponsive\bin\GridviewResponsive.dll
+C:\SRC\GridviewResponsiveEdit\GridviewResponsive\bin\GridviewResponsive.pdb
+C:\SRC\GridviewResponsiveEdit\GridviewResponsive\obj\Release\GridviewResponsive.dll
+C:\SRC\GridviewResponsiveEdit\GridviewResponsive\obj\Release\GridviewResponsive.pdb
+C:\SRC\GridviewResponsiveEdit\GridviewResponsive\bin\AjaxControlToolkit.dll

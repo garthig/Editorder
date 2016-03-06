@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB_9CAD65_tamilsangam" Class="NorthwindDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=SQL5014.Smarterasp.net;Initial Catalog=DB_9CAD65_tamilsangam;Persist Security Info=True;User ID=DB_9CAD65_tamilsangam_admin" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="NorthwindConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.smi_order" Member="smi_orders">
+    <Type Name="smi_order">
+      <Column Name="Varenr" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Ansvarlig" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="Kunde" Type="System.String" DbType="VarChar(850)" CanBeNull="true" />
+      <Column Name="Varenavn" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Bestillinsdato" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ForventetLevering" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Levertdato" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="haster" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ordernr" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="deleted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
